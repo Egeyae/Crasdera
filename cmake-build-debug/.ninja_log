@@ -1,3 +1,9 @@
 # ninja log v6
 1	26	1728328127578241999	CMakeFiles/Crasdera.dir/src/main.c.o	c60e2685a70cf97
 27	49	1728328127604242090	Crasdera	1b6b537ec8d7c6c7
+0	30	1728332809159323919	CMakeFiles/Crasdera.dir/src/logging.c.o	9d4f226d78b350ea
+1	43	1728332809160323923	CMakeFiles/Crasdera.dir/src/level.c.o	908c3f8b0c1c4b15
+1	28	1728332833857401278	CMakeFiles/Crasdera.dir/src/main.c.o	c60e2685a70cf97
+28	49	1728332833884401361	Crasdera	929b825b7a5e6aad
+1	25	1728332868796508090	CMakeFiles/Crasdera.dir/src/logging.c.o	9d4f226d78b350ea
+26	45	1728332868821508165	Crasdera	929b825b7a5e6aad
